@@ -1,0 +1,17 @@
+Definir varivel target:  
+
+Para a coleta de dados do nosso projeto A3, utilizaremos o imdRating. O mesmo se refere à classificações no Internet  Movie Database (IMDb).
+
+Com o uso do imdRating iremos prever a nota de filmes, baseado em ano de lançamento, gênero e diretor.
+Por exemplo: qual será a provável nota de um filme lançado em 2005, do gênero drama, dirigido por Christopher Nolan ?
+
+Escolhemos esta variável pois o imdRating nos ajudará a fazer o processo de aprendizado de máquina com mais eficiência, expressando todas as 
+avaliações de filmes possíveis, ele será a variável perfeita para o nosso projeto.
+
+E por fim fizemos algumas mudanças nas variáveis, em vez de associarmos um nome a cada diretor, gênero ou ano, estamos calculando uma média 
+ponderada com base nas informações disponíveis. Em outras palavras, cada ano será representado pela média das classificações dos filmes lançados 
+naquele ano, cada diretor terá sua média baseada nas notas de todos os filmes que dirigiu, e cada gênero será caracterizado pela média das classificações 
+de todos os filmes pertencentes a essa categoria.
+
+Com essa abordagem, poderemos realizar uma análise mais precisa e refinada dos dados, resultando em uma representação mais informativa dos diretores, gêneros 
+e anos, e, por conseguinte, das classificações de filmes.
