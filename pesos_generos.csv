@@ -1,0 +1,1451 @@
+genre,peso_gênero
+Ação,5.43
+Aventura,5.80
+Animação,6.60
+Biografia,6.84
+Comédia,6.05
+Crime,6.09
+Desconhecido,6.52
+Documentário,7.22
+Drama,6.72
+Familia,5.98
+Fantasia,6.00
+Film-Noir,6.70
+História,6.46
+Terror,5.05
+Musicalal,6.98
+Mistério,6.41
+Romance,6.36
+Sci-Fi,4.89
+Curta,6.35
+Esporte,5.25
+Talk-Show,
+Thriller,5.78
+Guerra,6.58
+Western,6.19
+"Documentário, Curta",6.78
+"Animação, Comédia, Curta",6.33
+"Comédia, Curta",6.20
+"Curta, Terror",5.70
+"Curta, Comédia",6.20
+"Curta, Biografia",6.59
+"Curta, Fantasia",6.17
+"Drama, Curta",6.53
+"Curta, Aventura, Fantasia",6.05
+"Fantasia, Curta",6.17
+"Curta, Ação",5.89
+"Curta, Western",6.27
+"Curta, Comédia, Musical",6.65
+"Curta, Comédia, Familia",6.12
+"Curta, Drama, Familia",6.35
+"Curta, Drama, Fantasia",6.36
+"Animação, Curta",6.47
+"Curta, Documentário",6.78
+"Fantasia, Curta, Comédia",6.13
+"Animação, Curta, Comédia",6.33
+"Biografia, Crime, Drama",6.55
+"Animação, Curta, Fantasia",6.31
+"Curta, Drama",6.53
+"Curta, Crime, Drama",6.38
+"Curta, Fantasia, Terror",5.80
+"Curta, Drama, Guerra",6.55
+"Aventura, Fantasia, Curta",6.05
+"Curta, Drama, Romance",6.47
+"Drama, História",6.59
+"Curta, Aventura, Sci-Fi",5.68
+"Aventura, Drama, Fantasia",6.17
+"Curta, Romance",6.35
+"Crime, Drama",6.40
+"Drama, Fantasia, Terror",5.92
+"Aventura, Drama",6.26
+"Curta, Ação, Western",5.99
+"Aventura, Drama, História",6.33
+"Fantasia, Drama",6.36
+"Drama, Mistério",6.57
+"Curta, Comédia, Drama",6.37
+"Ação, Drama, Romance",6.17
+"Aventura, Familia, Fantasia",5.93
+"Drama, História, Romance",6.51
+"Drama, Romance, Guerra",6.55
+"Curta, Comédia, Esporte",5.88
+"Drama, História, Guerra",6.59
+"Comédia, Curta, Animação",6.33
+"Drama, Mistério, Thriller",6.30
+"Animação, Drama, Curta",6.55
+"Ação, Aventura, Crime",5.77
+"Ação, Aventura, Sci-Fi",5.37
+"Curta, Comédia, Romance",6.25
+"Crime, Drama, Romance",6.39
+"Romance, Western",6.27
+"Comédia, Drama, Romance",6.38
+"Aventura, Crime",5.94
+"Comédia, Romance",6.20
+"Comédia, Familia, Curta",6.12
+"Fantasia, Romance",6.18
+"Biografia, Drama, História",6.67
+"Comédia, Drama, Familia",6.25
+"Drama, Terror",5.88
+"Comédia, Western, Romance",6.20
+"Comédia, Drama",6.38
+"Comédia, Guerra",6.31
+"Curta, Comédia, Western",6.19
+"Drama, Romance",6.54
+"Drama, Esporte",5.99
+"Comédia, Curta, Ação",5.94
+"Drama, Terror, Guerra",6.12
+"Crime, Terror, Thriller",5.64
+"Aventura, Western",6.00
+"Fantasia, Terror, Mistério",5.82
+"Drama, Terror, Sci-Fi",5.55
+"Fantasia, Terror",5.52
+"Comédia, Drama, Western",6.32
+"Drama, Comédia",6.38
+"Crime, Drama, Thriller",6.20
+"Comédia, Curta, Familia",6.12
+"Crime, Drama, Mistério",6.41
+"Ação, Aventura",5.61
+"Curta, Comédia, Terror",5.81
+"Curta, Comédia, Thriller",6.06
+"Fantasia, Thriller",5.89
+"Curta, Comédia, Fantasia",6.13
+"Crime, Drama, Terror",5.95
+"Aventura, Drama, Romance",6.29
+"Ação, Aventura, Romance",5.86
+"Drama, Romance, Esporte",6.11
+"Drama, Familia, Fantasia",6.23
+"Crime, Mistério, Thriller",6.09
+"Comédia, Familia",6.01
+"Documentário, Terror",6.13
+"Drama, Fantasia, Romance",6.36
+"Aventura, Romance, Familia",6.05
+"Ação, Aventura, Comédia",5.76
+"Romance, Drama",6.54
+"Comédia, Romance, Thriller",6.06
+"Biografia, Drama",6.78
+"Aventura, Comédia, Familia",5.94
+"Ação, Comédia, Romance",5.94
+"Drama, Romance, Thriller",6.29
+"Aventura, Drama, Mistério",6.31
+"Ação, Comédia",5.74
+"Drama, Aventura, Fantasia",6.17
+"Fantasia, Drama, Aventura",6.17
+"Crime, Terror, Sci-Fi",5.34
+"Aventura, Fantasia, Familia",5.93
+"Comédia, Familia, Fantasia",6.01
+"Animação, Curta, Musical",6.83
+"Animação, Aventura, Fantasia",6.13
+"História, Guerra",6.52
+"Aventura, Romance, Western",6.12
+"Aventura, Romance",6.08
+"Comédia, Familia, Esporte",5.76
+"Comédia, Western",6.12
+"Drama, Thriller",6.25
+"Aventura, Comédia, Drama",6.19
+"Documentário, Curta, História",6.67
+"Ação, Comédia, Drama",6.07
+"Aventura, Fantasia",5.90
+"Comédia, Terror, Mistério",5.83
+"Comédia, Romance, Esporte",5.88
+"Comédia, Familia, Romance",6.13
+"Comédia, Drama, Fantasia",6.26
+"Mistério, Thriller",6.09
+"Ação, Aventura, Drama",5.98
+"Aventura, Ação",5.61
+"Drama, Sci-Fi",5.81
+"Drama, Guerra",6.65
+"Comédia, Drama, Guerra",6.45
+"Drama, Romance, Western",6.42
+"Comédia, Crime, Drama",6.29
+"Aventura, Documentário",6.51
+"Comédia, Drama, Esporte",6.01
+"Aventura, Drama, Thriller",6.10
+"Romance, Thriller",6.07
+"Drama, Musical, Musicalal",6.89
+"Drama, Western",6.46
+"Comédia, Romance, Aventura",6.07
+"Drama, Terror, Romance",6.04
+"História, Romance",6.41
+"Comédia, Romance, Familia",6.13
+"Drama, Terror, Mistério",6.06
+"Animação, Familia, Comédia",6.21
+"Ação, Comédia, Familia",5.82
+"Ação, Drama",6.07
+"Ação, Aventura, História",5.90
+"Drama, Fantasia",6.36
+"Drama, Musicalal",6.56
+"Crime, Thriller",5.93
+"Crime, Musicalal",6.24
+"Musicalal, Romance",6.38
+"Comédia, Musicalal",6.23
+"Drama, Musicalal, Romance",6.49
+"Film-Noir, Mistério",6.55
+"Comédia, Musicalal, Romance",6.27
+"Aventura, Romance, Sci-Fi",5.68
+"Drama, Crime",6.40
+"Comédia, Drama, Musicalal",6.39
+"Animação, Familia, Curta",6.31
+"Documentário, Aventura",6.51
+"Crime, Thriller, Terror",5.64
+"Aventura, Western, Romance",6.12
+"Crime, Comédia, Drama",6.29
+"Biografia, Drama, Romance",6.64
+"Drama, Musical",7.14
+"Musicalal, Drama",6.56
+"Guerra, Drama, Ação",6.24
+"Crime, Drama, Film-Noir",6.50
+"Animação, Musical",7.07
+"Romance, Comédia, Drama",6.38
+"Comédia, Fantasia, Musicalal",6.15
+"Musicalal, Romance, Comédia",6.27
+"Drama, Film-Noir",6.71
+"Aventura, Crime, Drama",6.20
+"Comédia, Drama, Musical",6.77
+"Animação, Comédia, Familia",6.21
+"Ação, Romance, Thriller",5.85
+"Comédia, Musicalal, Drama",6.39
+"Mistério, Curta",6.38
+"Familia, Comédia, Animação",6.21
+"Drama, Familia, Esporte",5.98
+"Mistério, Romance",6.38
+"Drama, Musical, Guerra",6.95
+"Aventura, Familia, Drama",6.17
+"Terror, Sci-Fi",4.97
+"Comédia, Romance, Musicalal",6.27
+"Musicalal, Comédia",6.23
+"Comédia, Crime, Musicalal",6.18
+"Ação, Drama, Guerra",6.24
+"Comédia, Crime",6.07
+"Familia, Drama, Comédia",6.25
+"Drama, Romance, Aventura",6.29
+"Ação, Western, Aventura",5.81
+"Familia, Animação, Curta",6.31
+"Drama, Fantasia, Mistério",6.38
+"Aventura, Romance, Drama",6.29
+"Ação, Aventura, Fantasia",5.74
+"Drama, Ação",6.07
+"Terror, Sci-Fi, Thriller",5.24
+"Mistério, Western",6.30
+"Comédia, Crime, Romance",6.16
+"Ação, Crime, Romance",5.96
+"Drama, Comédia, Romance",6.38
+"Aventura, Terror, Sci-Fi",5.25
+"Comédia, Familia, Animação",6.21
+"Comédia, Esporte",5.65
+"Aventura, Terror, Mistério",5.75
+"Crime, Terror, Mistério",5.85
+"Crime, Film-Noir, Thriller",6.19
+"Comédia, Terror",5.55
+"Crime, Mistério",6.25
+"Comédia, Western, Curta",6.19
+"Comédia, Drama, Mistério",6.39
+"Ação, Crime, Drama",6.08
+"Comédia, Mistério, Thriller",6.08
+"Animação, Curta, Familia",6.31
+"Musicalal, Comédia, Romance",6.27
+"Comédia, Musicalal, Guerra",6.34
+"Guerra, Ação, Drama",6.24
+"Ação, Drama, Terror",5.73
+"Romance, Drama, Guerra",6.55
+"Aventura, Terror, Romance",5.73
+"Drama, Familia, Romance",6.35
+"Comédia, Familia, Musicalal",6.14
+"Terror, Crime, Mistério",5.85
+"Terror, Mistério, Thriller",5.75
+"Familia, Animação, Curta, Comédia",6.24
+"Crime, Mistério, Romance",6.28
+"Crime, Romance, Comédia",6.16
+"Biografia, Comédia, Drama",6.54
+"Musical, Romance, Western",6.70
+"Comédia, Drama, História",6.41
+"Comédia, Crime, Mistério",6.18
+"Aventura, Comédia, Fantasia",5.95
+"Ação, Aventura, Mistério",5.88
+"Animação, Musicalal, Familia",6.33
+"Biografia, Musical, Romance",6.91
+"Ação, Crime, Mistério",5.97
+"Terror, Crime, Aventura",5.64
+"Crime, Mistério, Drama",6.41
+"Drama, Mistério, Romance",6.50
+"Comédia, Romance, Drama",6.38
+"Crime, Sci-Fi",5.49
+"Ação, Comédia, Crime",5.85
+"Comédia, Familia, Drama",6.25
+"Aventura, Guerra",6.19
+"Crime, Film-Noir, Mistério",6.40
+"Aventura, Crime, Romance",6.08
+"Musical, Romance",6.95
+"Documentário, Guerra",6.90
+"Biografia, Western",6.51
+"Crime, Musicalal, Romance",6.28
+"Crime, Drama, Musicalal",6.40
+"Ação, Drama, Mistério",6.19
+"Biografia, Drama, Western",6.58
+"Crime, Terror",5.57
+"Comédia, Musical",6.80
+"Fantasia, Aventura",5.90
+"Ação, Drama, Aventura",5.98
+"Comédia, Crime, Terror",5.73
+"Familia, Musicalal, Romance",6.25
+"Ação, Drama, Comédia",6.07
+"Comédia, Fantasia, Terror",5.70
+"Comédia, História, Romance",6.29
+"Terror, Romance, Sci-Fi",5.43
+"Terror, Mistério",5.73
+"Comédia, Fantasia, Romance",6.14
+"Ação, Comédia, Western",5.89
+"Mistério, Terror",5.73
+"Comédia, Musical, Musicalal",6.67
+"Animação, Fantasia",6.30
+"Comédia, Musical, Romance",6.65
+"Western, Crime",6.14
+"Aventura, Fantasia, Romance",6.05
+"Romance, Comédia, Mistério",6.27
+"Drama, História, Western",6.46
+"Ação, Crime, Western",5.90
+"Familia, Animação, Comédia",6.21
+"Drama, Romance, Comédia",6.38
+"Comédia, Mistério",6.23
+"Comédia, Musicalal, Familia",6.14
+"Comédia, Musicalal, Mistério",6.29
+"Comédia, Romance, Crime",6.16
+"Sci-Fi, Terror",4.97
+"Familia, Musicalal",6.19
+"Thriller, Terror, Mistério",5.75
+"Aventura, Crime, Thriller",5.89
+"Comédia, Familia, Guerra",6.20
+"Biografia, Drama, Musicalal",6.65
+"Drama, História, Musicalal",6.53
+"Thriller, Drama",6.25
+"Drama, Familia",6.35
+"Crime, Musical, Mistério",6.68
+"Romance, Comédia",6.20
+"Biografia, História, Romance",6.55
+"Musicalal, Esporte",5.83
+"Aventura, Familia, Musicalal",6.06
+"Comédia, Mistério, Romance",6.27
+"Musicalal, Romance, Aventura",6.19
+"Musical, Drama",7.14
+"Drama, Film-Noir, Mistério",6.61
+"Ação, Aventura, Musical",6.26
+"Musicalal, Aventura, Familia",6.06
+"Musical, Western",6.87
+"Documentário, Drama, História",6.80
+"Ação, Musical, Western",6.39
+"Aventura, Mistério, Thriller",6.00
+"Aventura, Mistério",6.10
+"Aventura, Drama, Familia",6.17
+"Aventura, Romance, Thriller",5.98
+"História, Musicalal, Romance",6.41
+"Aventura, História, Romance",6.21
+"Familia, Drama",6.35
+"Musicalal, Western",6.30
+"Ação, Drama, Musicalal",6.18
+"Comédia, Fantasia",6.03
+"Comédia, História",6.25
+"Animação, Familia, Fantasia",6.19
+"Crime, Drama, História",6.42
+"Aventura, Drama, Guerra",6.37
+"Aventura, Familia",5.89
+"Romance, Musicalal, Comédia",6.27
+"Ação, Drama, História",6.20
+"Familia, Aventura",5.89
+"Animação, Comédia, Musicalal",6.35
+"Aventura, História",6.13
+"Guerra, Drama",6.65
+"Drama, Musical, Romance",6.88
+"Musicalal, Romance, Western",6.32
+"Biografia, Drama, Musical",7.04
+"Mistério, Comédia",6.23
+"Drama, História, Musical",6.91
+"Animação, Curta, Aventura",6.25
+"Documentário, Esporte",6.23
+"Familia, Comédia, Drama",6.25
+"Biografia, Drama, Esporte",6.27
+"Comédia, Aventura, Romance",6.07
+"Crime, Romance",6.22
+"Aventura, História, Western",6.15
+"Comédia, Mistério, Drama",6.39
+"Aventura, Comédia, Crime",5.98
+"Aventura, Drama, Musical",6.69
+"Animação, Aventura, Familia",6.13
+"História, Western",6.33
+"Terror, Mistério, Sci-Fi",5.45
+"Sci-Fi, Terror, Drama",5.55
+"Drama, Musical, Mistério",6.89
+"Thriller, Guerra",6.18
+"Biografia, Musicalal, Romance",6.53
+"Ação, Aventura, Familia",5.74
+"Familia, Fantasia",5.99
+"Romance, Thriller, Guerra",6.24
+"Aventura, Biografia, História",6.37
+"Crime, Drama, Musical",6.79
+"Curta, Animação",6.47
+"Aventura, Sci-Fi, Terror",5.25
+"Ação, Sci-Fi, Aventura",5.37
+"Ação, Aventura, Biografia",6.02
+"Comédia, Musicalal, Western",6.21
+"Comédia, Romance, Sci-Fi",5.76
+"Aventura, Terror",5.42
+"Comédia, Thriller, Guerra",6.14
+"Crime, História, Western",6.25
+"Aventura, Biografia, Drama",6.45
+"Comédia, Musicalal, Esporte",5.90
+"Drama, Guerra, Romance",6.55
+"Comédia, Terror, Musicalal",5.83
+"Ação, História, Romance",6.08
+"Animação, Familia, Musicalal",6.33
+"Aventura, Comédia, Musical",6.47
+"Drama, Guerra, Thriller",6.36
+"Comédia, Musical, Western",6.60
+"Comédia, Romance, Guerra",6.33
+"Fantasia, Comédia, Romance",6.14
+"Terror, Thriller",5.41
+"Comédia, Musical, Guerra",6.73
+"Drama, Thriller, Guerra",6.36
+"Aventura, Comédia, Musicalal",6.08
+"Drama, Aventura",6.26
+"Aventura, Drama, Western",6.24
+"Animação, Curta, Ação",6.12
+"Comédia, Fantasia, Mistério",6.15
+"Curta, Documentário, Guerra",6.71
+"Animação, Familia",6.29
+"Biografia, Drama, Guerra",6.71
+"Musicalal, Romance, Guerra",6.45
+"Aventura, Sci-Fi, Guerra",5.76
+"Drama, Film-Noir, Thriller",6.40
+"Biografia, Comédia, Musicalal",6.43
+"Documentário, História, Guerra",6.75
+"Biografia, Drama, Familia",6.51
+"Comédia, Western, Musicalal",6.21
+"Crime, Thriller, Mistério",6.09
+"Comédia, História, Musical",6.69
+"Drama, Fantasia, Guerra",6.43
+"Comédia, Mistério, Crime",6.18
+"Musicalal, Fantasia",6.20
+"Ação, Western",5.81
+"Ação, Aventura, Western",5.81
+"Ação, História, Guerra",6.16
+"Familia, Curta, Guerra",6.30
+"Drama, Thriller, Romance",6.29
+"Aventura, História, Guerra",6.28
+"Fantasia, Terror, Sci-Fi",5.31
+"Comédia, Crime, Musical",6.56
+"Comédia, Romance, Western",6.20
+"Comédia, Terror, Musical",6.21
+"Familia, Western",6.09
+"Comédia, Aventura, Fantasia",5.95
+"Crime, Drama, Western",6.33
+"Drama, Terror, Musical",6.44
+"Ação, Crime, Film-Noir",6.07
+"Aventura, Comédia, Terror",5.63
+"Curta, Ação, Aventura",5.86
+"Documentário, Animação, História",6.76
+"Documentário, Curta, Guerra",6.71
+"Curta, Guerra",6.46
+"Mistério, Drama, Fantasia",6.38
+"Familia, Musical",6.77
+"Terror, Musicalal, Thriller",5.74
+"Aventura, Sci-Fi, Thriller",5.49
+"Western, Musical",6.87
+"Crime, Drama, Fantasia",6.27
+"Musical, Romance, Guerra",6.83
+"Drama, Aventura, Guerra",6.37
+"Aventura, Comédia, Romance",6.07
+"Mistério, Western, Romance",6.32
+"Drama, Ação, Aventura",5.98
+"Drama, Film-Noir, Terror",6.16
+"Biografia, História",6.65
+"Aventura, Crime, Mistério",6.10
+"Ação, Comédia, Musical",6.34
+"Film-Noir, Mistério, Romance",6.49
+"Comédia, Romance, Fantasia",6.14
+"Comédia, Musicalal, Fantasia",6.15
+"Fantasia, Musicalal, Romance",6.25
+"Ação, Drama, Western",6.11
+"Drama, Terror, Thriller",5.85
+"Ação, Romance, Western",5.99
+"Romance, Aventura, Thriller",5.98
+"Drama, Aventura, Familia",6.17
+"Crime, Film-Noir, Drama",6.50
+"Drama, Thriller, Mistério",6.30
+"Drama, Film-Noir, Romance",6.59
+"Animação, Familia, Musical",6.71
+"Film-Noir, Thriller",6.24
+"Film-Noir, Mistério, Thriller",6.30
+"Drama, Crime, Mistério",6.41
+"Drama, Film-Noir, Esporte",6.22
+"Film-Noir, Drama",6.71
+"Animação, Musicalal, Curta",6.45
+"Drama, Romance, Musical",6.88
+"Biografia, Comédia",6.44
+"Romance, Aventura, Drama",6.29
+"Comédia, Terror, Sci-Fi",5.33
+"Film-Noir, Crime, Drama",6.50
+"Documentário, Comédia",6.63
+"Drama, Romance, Fantasia",6.36
+"Ação, Drama, Film-Noir",6.28
+"Comédia, História, Guerra",6.36
+"Ação, Mistério, Romance",6.06
+"Crime, Film-Noir, Romance",6.38
+"Drama, Guerra, Western",6.50
+"Crime, Western",6.14
+"Thriller, Film-Noir, Drama",6.40
+"Comédia, Aventura",5.92
+"Mistério, Drama, Thriller",6.30
+"Ação, Guerra, Drama",6.24
+"Comédia, Guerra, Fantasia",6.21
+"Biografia, Musical",7.19
+"Comédia, Sci-Fi, Esporte",5.40
+"Aventura, Crime, Western",6.03
+"Terror, Comédia",5.55
+"Fantasia, Drama, Romance",6.36
+"Drama, Familia, Western",6.30
+"Documentário, Curta, Terror",6.20
+"Film-Noir, Esporte",5.98
+"Aventura, Thriller, Western",5.92
+"Aventura, Comédia",5.92
+"Documentário, Curta, Esporte",6.27
+"Drama, Mistério, Guerra",6.57
+"Aventura, Drama, Sci-Fi",5.80
+"Familia, Comédia",6.01
+"Thriller, Sci-Fi",5.33
+"Aventura, Guerra, Drama",6.37
+"Ação, Thriller",5.60
+"Aventura, Romance, Ação",5.86
+"Film-Noir, Crime",6.39
+"Curta, Fantasia, Romance",6.23
+"Drama, Musicalal, Crime",6.40
+"Aventura, Romance, Guerra",6.25
+"Sci-Fi, Aventura",5.35
+"Crime, Film-Noir, Musical",6.78
+"Ação, Comédia, Esporte",5.58
+"Drama, Crime, Film-Noir",6.50
+"Drama, Guerra, Ação",6.24
+"Terror, Thriller, Mistério",5.75
+"Drama, Familia, Musicalal",6.37
+"Ação, Drama, Familia",6.04
+"Fantasia, Musical, Musicalal",6.65
+"Ação, Aventura, Guerra",5.94
+"Western, Drama",6.46
+"Familia, Sci-Fi",5.44
+"Ação, Biografia, Drama",6.33
+"Comédia, Sci-Fi",5.47
+"Comédia, Fantasia, Musical",6.53
+"Ação, Aventura, Thriller",5.67
+"Curta, Biografia, Drama",6.63
+"Biografia, Familia, Musicalal",6.41
+"Drama, Thriller, Western",6.23
+"Comédia, Sci-Fi, Drama",5.89
+"Mistério, Romance, Drama",6.50
+"Thriller, Western",5.99
+"Familia, Curta, Comédia",6.12
+"Guerra, Western",6.39
+"Biografia, Comédia, Musical",6.81
+"Ação, Sci-Fi",5.16
+"Familia, Fantasia, Musical",6.51
+"Comédia, Sci-Fi, Fantasia",5.65
+"Drama, Esporte, Western",6.05
+"Romance, Guerra, Drama",6.55
+"Aventura, Sci-Fi",5.35
+"Aventura, Familia, Sci-Fi",5.56
+"Familia, Sci-Fi, Animação",5.82
+"Romance, Sci-Fi",5.62
+"Comédia, Aventura, Drama",6.19
+"Familia, Documentário",6.60
+"Ação, Biografia, Western",6.15
+"Ação, Familia, Sci-Fi",5.43
+"Western, Ação, Drama",6.11
+"Aventura, Drama, Ação",5.98
+"Biografia, Musicalal",6.62
+"Drama, Fantasia, Musical",6.76
+"Drama, Romance, Musicalal",6.49
+"Romance, Guerra, Western",6.38
+"Ação, Sci-Fi, Thriller",5.37
+"Film-Noir, Crime, Thriller",6.19
+"Drama, Comédia, Familia",6.25
+"Drama, Aventura, Romance",6.29
+"Documentário, Familia",6.60
+"Drama, Film-Noir, Crime",6.50
+"Animação, Drama",6.66
+"Drama, Aventura, Crime",6.20
+"Aventura, Animação, Familia",6.13
+"Familia, Western, Aventura",5.99
+"Ação, Aventura, Terror",5.42
+"Aventura, Musicalal, Fantasia",6.07
+"Animação, Aventura, Comédia",6.15
+"Biografia, História, Western",6.50
+"Mistério, Romance, Thriller",6.18
+"Mistério, Romance, Western",6.32
+"Familia, Fantasia, Curta",6.11
+"Film-Noir, Thriller, Drama",6.40
+"Documentário, Drama",6.97
+"Familia, Aventura, Comédia",5.94
+"Fantasia, Comédia",6.03
+"Animação, Fantasia, Musicalal",6.33
+"Aventura, Comédia, Mistério",6.09
+"Aventura, Fantasia, Terror",5.62
+"Aventura, Drama, Terror",5.86
+"Guerra, Drama, Romance",6.55
+"Animação, Comédia, Romance",6.33
+"Sci-Fi, Mistério, Terror",5.45
+"Crime, Film-Noir",6.39
+"Crime, Thriller, Drama",6.20
+"Drama, Musicalal, Familia",6.37
+"Aventura, Guerra, Western",6.19
+"Documentário, Biografia",7.03
+"Drama, Sci-Fi, Thriller",5.80
+"Aventura, Familia, História",6.08
+"Aventura, Fantasia, Sci-Fi",5.56
+"Familia, Drama, Aventura",6.17
+"Drama, História, Terror",6.08
+"Fantasia, Terror, Romance",5.80
+"Animação, Fantasia, Familia",6.19
+"Drama, Fantasia, Sci-Fi",5.87
+"Drama, Sci-Fi, Terror",5.55
+"Ação, Biografia, Crime",6.12
+"Familia, Fantasia, Ação",5.80
+"Biografia, Crime, Film-Noir",6.54
+"Documentário, Animação, Curta",6.72
+"Drama, Crime, Romance",6.39
+"Crime, Mistério, Terror",5.85
+"Familia, Terror, Animação",5.87
+"Ação, Guerra, Western",6.07
+"Documentário, Sci-Fi",6.05
+"Romance, Curta",6.35
+"Thriller, Guerra, Drama",6.36
+"Familia, Fantasia, Musicalal",6.13
+"Sci-Fi, Thriller",5.33
+"Mistério, Thriller, Crime",6.09
+"Ação, Thriller, Aventura",5.67
+"Comédia, Crime, Thriller",5.97
+"Mistério, Crime",6.25
+"Animação, Familia, Aventura",6.13
+"Familia, Comédia, Fantasia",6.01
+"Drama, Romance, Sci-Fi",5.99
+"Familia, Aventura, Fantasia",5.93
+"Terror, Drama",5.88
+"Thriller, Mistério",6.09
+"Crime, Drama, Esporte",6.02
+"Crime, História",6.27
+"Comédia, Familia, Sci-Fi",5.64
+"Aventura, Comédia, Guerra",6.14
+"Drama, Comédia, Crime",6.29
+"Drama, Sci-Fi, Romance",5.99
+"Crime, Musical, Drama",6.79
+"Drama, Sci-Fi, Guerra",6.06
+"Fantasia, Sci-Fi, Thriller",5.56
+"Curta, Animação, Documentário",6.72
+"Terror, Romance, Thriller",5.73
+"Aventura, Terror, Ação",5.42
+"Aventura, História, Mistério",6.22
+"Familia, Comédia, Musical",6.53
+"Familia, Fantasia, Terror",5.68
+"Ação, Comédia, Aventura",5.76
+"Ação, Biografia, História",6.24
+"Fantasia, Familia, Aventura",5.93
+"Drama, Musicalal, Esporte",6.12
+"Curta, Aventura, Drama",6.29
+"Fantasia, Sci-Fi",5.45
+"Comédia, Ação, Aventura",5.76
+"Ação, Terror, Sci-Fi",5.12
+"Ação, Drama, Thriller",5.98
+"Animação, Aventura, Biografia",6.41
+"Aventura, Comédia, Thriller",5.88
+"Western, Comédia",6.12
+"Documentário, Musical",7.38
+"Western, Aventura",6.00
+"Comédia, Sci-Fi, Familia",5.64
+"Aventura, Comédia, História",6.10
+"Comédia, Ação, Crime",5.85
+"Terror, Mistério, Romance",5.94
+"Drama, Aventura, Ação",5.98
+"Fantasia, Mistério, Western",6.20
+"Comédia, Guerra, Western",6.27
+"Comédia, Ação, Thriller",5.75
+"Documentário, Biografia, Drama",6.93
+"Comédia, Crime, Aventura",5.98
+"Terror, Musicalal",5.72
+"Crime, Drama, Ação",6.08
+"Familia, Mistério, Romance",6.25
+"Drama, Western, Crime",6.33
+"Documentário, Curta, Biografia",6.80
+"Drama, Mistério, Sci-Fi",6.01
+"Guerra, Drama, Aventura",6.37
+"Terror, Sci-Fi, Drama",5.55
+"Comédia, Familia, Mistério",6.15
+"Ação, Thriller, Crime",5.76
+"Drama, Ação, Crime",6.08
+"Mistério, Terror, Sci-Fi",5.45
+"Documentário, Curta, Musical",7.04
+"Ação, Drama, Esporte",5.80
+"Comédia, Thriller",5.91
+"Thriller, Guerra, Ação",5.93
+"Sci-Fi, Aventura, Fantasia",5.56
+"Western, Aventura, Romance",6.12
+"Aventura, Ação, Drama",5.98
+"Ação, Crime, Terror",5.52
+"Comédia, Drama, Thriller",6.18
+"Aventura, Biografia, Familia",6.21
+"Comédia, Crime, Familia",6.04
+"Terror, Sci-Fi, Western",5.38
+"Curta, Comédia, Crime",6.16
+"Crime, Aventura, Comédia",5.98
+"Thriller, Terror",5.41
+"Animação, Ação, Aventura",5.94
+"Mistério, Thriller, Terror",5.75
+"Drama, Comédia, Guerra",6.45
+"Aventura, Comédia, Sci-Fi",5.58
+"Sci-Fi, Ação, Aventura",5.37
+"Ação, Animação, Aventura",5.94
+"Curta, Drama, Terror",6.04
+"Comédia, Familia, Terror",5.69
+"Ação, Esporte",5.34
+"Documentário, Drama, Guerra",6.84
+"Documentário, Drama, Mistério",6.78
+"Ação, Comédia, Thriller",5.75
+"Western, Ação",5.81
+"Comédia, Sci-Fi, Thriller",5.57
+"Sci-Fi, Curta",5.62
+"Western, Mistério",6.30
+"Mistério, Sci-Fi",5.65
+"Ação, Comédia, Sci-Fi",5.46
+"Biografia, História, Musical",6.95
+"Aventura, Comédia, Western",6.01
+"Guerra, Aventura, Drama",6.37
+"Thriller, Crime, Mistério",6.09
+"Terror, Romance",5.70
+"Familia, Curta, Animação",6.31
+"Familia, Comédia, Crime",6.04
+"Guerra, Curta",6.46
+"Animação, Curta, Musicalal",6.45
+"Comédia, Western, Aventura",6.01
+"Drama, Musical, Thriller",6.68
+"Animação, Comédia, Drama",6.46
+"Biografia, Crime, Western",6.37
+"Biografia, Drama, Fantasia",6.52
+"Aventura, Crime, Terror",5.64
+"Comédia, Fantasia, Sci-Fi",5.65
+"Mistério, Crime, Drama",6.41
+"Drama, Romance, Crime",6.39
+"Documentário, História, Musical",7.08
+"História, Terror",5.75
+"Familia, Aventura, Animação",6.13
+"Ação, Terror, Drama",5.73
+"Aventura, Western, Drama",6.24
+"Western, Sci-Fi, Thriller",5.62
+"Ação, Crime, Thriller",5.76
+"Drama, Thriller, Terror",5.85
+"Terror, Drama, Sci-Fi",5.55
+"Drama, Ação, Guerra",6.24
+"Documentário, Biografia, História",6.84
+"Comédia, História, Western",6.23
+"Ação, Crime",5.76
+"Comédia, Guerra, Drama",6.45
+"Ação, Drama, Sci-Fi",5.68
+"Sci-Fi, Drama",5.81
+"Familia, Comédia, Musicalal",6.14
+"Aventura, Thriller",5.79
+"História, Romance, Western",6.34
+"Documentário, Comédia, Esporte",6.17
+"Comédia, Musicalal, Sci-Fi",5.78
+"Crime, Drama, Sci-Fi",5.90
+"Ação, Guerra",6.00
+"Crime, Thriller, Western",6.02
+"Terror, Aventura, Mistério",5.75
+"Drama, Western, Ação",6.11
+"Comédia, Drama, Terror",5.94
+"Ação, Drama, Crime",6.08
+"Documentário, Biografia, Crime",6.71
+"Drama, Musicalal, Guerra",6.57
+"Musicalal, Romance, Drama",6.49
+"Animação, Comédia, Fantasia",6.22
+"Mistério, Comédia, Romance",6.27
+"Musicalal, Drama, Comédia",6.39
+"Drama, Ação, Romance",6.17
+"Crime, Musicalal, Mistério",6.30
+"Drama, Familia, História",6.39
+"Thriller, Crime, Drama",6.20
+"Familia, Mistério, Fantasia",6.13
+"Crime, Thriller, Ação",5.76
+"Mistério, Sci-Fi, Thriller",5.69
+"Documentário, Comédia, Musical",6.94
+"Animação, Comédia",6.32
+"Drama, Fantasia, Musicalal",6.38
+"Familia, Comédia, Sci-Fi",5.64
+"Documentário, Drama, Musical",7.16
+"Comédia, Thriller, Crime",5.97
+"Comédia, Drama, Sci-Fi",5.89
+"Aventura, Mistério, Animação",6.27
+"Comédia, Terror, Thriller",5.62
+"Ação, Fantasia",5.72
+"Crime, Comédia",6.07
+"Familia, Fantasia, Sci-Fi",5.62
+"Fantasia, Terror, Thriller",5.61
+"Documentário, Biografia, Esporte",6.43
+"Sci-Fi, Comédia, Terror",5.33
+"Documentário, Biografia, Musical",7.20
+"Comédia, Documentário",6.63
+"Fantasia, Musicalal, Aventura",6.07
+"Ação, Comédia, Fantasia",5.83
+"Guerra, Ação, Comédia",6.02
+"Comédia, Familia, Western",6.07
+"Animação, Drama, Sci-Fi",6.07
+"Terror, Thriller, Crime",5.64
+"Adult, Crime, Terror",
+"Aventura, Musicalal, Familia",6.06
+"Drama, Fantasia, Familia",6.23
+"Animação, Drama, Fantasia",6.44
+"Aventura, Familia, Romance",6.05
+"Familia, Comédia, Western",6.07
+"Animação, Crime, Drama",6.47
+"Documentário, Biografia, Guerra",6.88
+"Ação, Fantasia, Terror",5.49
+"Drama, Fantasia, História",6.40
+"Comédia, Ação",5.74
+"Aventura, Musicalal",6.10
+"Terror, Guerra",5.81
+"Ação, Drama, Fantasia",6.05
+"Ação, Thriller, Drama",5.98
+"Drama, Terror, Fantasia",5.92
+"Sci-Fi, Musical",6.22
+"Documentário, Familia, Musicalal",6.53
+"Ação, Drama, Musical",6.57
+"Familia, Aventura, Drama",6.17
+"Adult, Terror, Thriller",
+"Sci-Fi, Terror, Mistério",5.45
+"Drama, Mistério, Terror",6.06
+"Ação, Comédia, Musicalal",5.96
+"Thriller, Ação, Drama",5.98
+"Animação, Comédia, Musical",6.73
+"Ação, Aventura, Animação",5.94
+"Crime, Ação, Thriller",5.76
+"Animação, Curta, Drama",6.55
+"Drama, História, Mistério",6.53
+"Biografia, Comédia, Fantasia",6.30
+"Ação, Romance",5.89
+"Crime, Ação, Drama",6.08
+"Ação, Terror, Thriller",5.42
+"Adult, Drama",
+"Ação, Sci-Fi, Esporte",5.19
+"Aventura, Familia, Western",5.99
+"Comédia, Drama, Ação",6.07
+"Drama, História, Thriller",6.32
+"Drama, História, Esporte",6.14
+"Adult, Drama, Mistério",
+"Adult, Comédia, Musicalal",
+"Fantasia, Comédia, Musicalal",6.15
+"Drama, Crime, Thriller",6.20
+"Drama, Mistério, Crime",6.41
+"Thriller, Ação, Sci-Fi",5.37
+"Documentário, Terror, Musical",6.60
+"Documentário, Comédia, Drama",6.66
+"Ação, Terror, Mistério",5.63
+"Animação, Fantasia, Terror",5.88
+"Comédia, Crime, Fantasia",6.05
+"Ação, Biografia, Comédia",6.10
+"Animação, Aventura, Musicalal",6.27
+"Drama, Guerra, Aventura",6.37
+"Familia, Musicalal, Fantasia",6.13
+"Drama, Aventura, Terror",5.86
+"Familia, Animação",6.29
+"Ação, Mistério",5.92
+"Sci-Fi, Western",5.54
+"Aventura, História, Musicalal",6.22
+"Comédia, Mistério, Terror",5.83
+"Drama, Western, Romance",6.42
+"Familia, Western, Ação",5.87
+"Familia, Aventura, Crime",5.96
+"Fantasia, Terror, Musical",6.20
+"Familia, Aventura, Sci-Fi",5.56
+"Animação, Aventura, Drama",6.37
+"Fantasia, Aventura, Sci-Fi",5.56
+"Terror, Curta",5.70
+"Sci-Fi, Mistério, Thriller",5.69
+"Documentário, História",6.84
+"Ação, Comédia, Guerra",6.02
+"Aventura, Familia, Esporte",5.68
+"Aventura, Crime, Esporte",5.71
+"Documentário, Drama, Western",6.71
+"Comédia, Western, Drama",6.32
+"Comédia, Crime, Sci-Fi",5.67
+"Drama, Sci-Fi, Esporte",5.62
+"Ação, Comédia, Mistério",5.96
+"Terror, Adult",
+"Terror, Drama, Thriller",5.85
+"Aventura, Mistério, Sci-Fi",5.70
+"Sci-Fi, Fantasia, Mistério",5.77
+"Comédia, Familia, Aventura",5.94
+"Familia, Fantasia, Comédia",6.01
+"Animação, Sci-Fi, Aventura",5.76
+"Ação, Biografia, Sci-Fi",5.72
+"Musical, Romance, Drama",6.88
+"Ação, Terror",5.24
+"Ação, Romance, Sci-Fi",5.56
+"Aventura, Terror, Thriller",5.54
+"Familia, Terror, Mistério",5.81
+"Comédia, Fantasia, História",6.17
+"Comédia, Sci-Fi, Aventura",5.58
+"Animação, Drama, Musical",6.96
+"Biografia, Drama, Terror",6.20
+"Animação, Curta, Terror",6.00
+"Comédia, Terror, Fantasia",5.70
+"Aventura, Sci-Fi, Drama",5.80
+"Sci-Fi, Comédia",5.47
+"Aventura, Comédia, Esporte",5.70
+"Sci-Fi, Comédia, Fantasia",5.65
+"Fantasia, Romance, Thriller",6.05
+"Ação, Crime, Sci-Fi",5.47
+"Animação, Fantasia, Musical",6.72
+"Sci-Fi, Thriller, Guerra",5.75
+"Ação, Comédia, Terror",5.51
+"Sci-Fi, Ação, Thriller",5.37
+"Sci-Fi, Comédia, Musical",6.16
+"Familia, Animação, Fantasia",6.19
+"Animação, Aventura, Sci-Fi",5.76
+"Sci-Fi, Ação",5.16
+"Crime, Drama, Guerra",6.46
+"Animação, Drama, Musicalal",6.57
+"Terror, Ação",5.24
+"Romance, Drama, Ação",6.17
+"Comédia, Documentário, Musical",6.94
+"Musicalal, Drama, Thriller",6.30
+"Ação, Fantasia, Aventura",5.74
+"Curta, Animação, Familia",6.31
+"Terror, Crime, Thriller",5.64
+"História, Musicalal",6.43
+"Animação, Biografia, Drama",6.72
+"Aventura, Comédia, Ação",5.76
+"Musical, Comédia",6.80
+"Drama, Mistério, Musical",6.89
+"Animação, Fantasia, Aventura",6.13
+"Aventura, Sci-Fi, Ação",5.37
+"Animação, Ação, Crime",6.04
+"Musicalal, Fantasia, Comédia",6.15
+"Biografia, Drama, Thriller",6.45
+"Drama, Comédia, Musicalal",6.39
+"Drama, Sci-Fi, Aventura",5.80
+"Thriller, Drama, Romance",6.29
+"Ação, Familia, Aventura",5.74
+"Terror, Fantasia",5.52
+"Drama, Adult",
+"Ação, Mistério, Thriller",5.87
+"Mistério, Ação, Thriller",5.87
+"Drama, Thriller, Crime",6.20
+"Curta, Terror, Musical",6.31
+"Animação, Ação, Drama",6.25
+"Terror, Drama, Mistério",6.06
+"Sci-Fi, Ação, Drama",5.68
+"Sci-Fi, Fantasia",5.45
+"Familia, Animação, Musicalal",6.33
+"Comédia, Terror, Romance",5.82
+"Animação, Ação, Fantasia",6.01
+"Aventura, Animação, Sci-Fi",5.76
+"Documentário, Musicalal",6.81
+"Animação, Comédia, Terror",5.90
+"Aventura, Thriller, Ação",5.67
+"Aventura, Fantasia, Mistério",6.07
+"Musicalal, Sci-Fi, Curta",5.88
+"Terror, Comédia, Musicalal",5.83
+"Familia, Romance, Sci-Fi",5.74
+"Ação, Thriller, Guerra",5.93
+"Ação, Familia, Romance",5.92
+"Animação, Familia, Romance",6.31
+"Documentário, Biografia, Romance",6.80
+"Fantasia, Musical",6.78
+"Ação, Terror, Romance",5.61
+"Ação, Thriller, Terror",5.42
+"Comédia, Musical, Esporte",6.28
+"Animação, Ação, Sci-Fi",5.64
+"Aventura, Musicalal, Comédia",6.08
+"Terror, Comédia, Documentário",6.10
+"Familia, Sci-Fi, Comédia",5.64
+"Terror, Musical, Musicalal",6.33
+"Ação, Guerra, Aventura",5.94
+"Curta, Musical",6.95
+"Ação, Fantasia, Sci-Fi",5.44
+"Drama, Familia, Guerra",6.43
+"Terror, Musical",6.30
+"Aventura, Biografia, Comédia",6.23
+"Musicalal, Drama, Fantasia",6.38
+"Thriller, Comédia, Romance",6.06
+"Animação, Drama, Guerra",6.63
+"Drama, Aventura, Comédia",6.19
+"Animação, Sci-Fi",5.74
+"Aventura, Sci-Fi, Animação",5.76
+"Comédia, Fantasia, Drama",6.26
+"Ação, Crime, Fantasia",5.84
+"Romance, Musical",6.95
+"Crime, Ação, Comédia",5.85
+"Documentário, Crime, Mistério",6.57
+"Crime, Documentário",6.65
+"Animação, Comédia, Crime",6.24
+"Ação, Esporte, Thriller",5.49
+"Comédia, Aventura, Familia",5.94
+"Ação, Biografia",6.13
+"Sci-Fi, Terror, Comédia",5.33
+"Drama, Thriller, Ação",5.98
+"Ação, Romance, Guerra",6.12
+"Crime, Ação, Romance",5.96
+"Fantasia, Terror, Comédia",5.70
+"Romance, Guerra",6.47
+"Terror, Western",5.62
+"Crime, Terror, Ação",5.52
+"Ação, Sci-Fi, Terror",5.12
+"Animação, Aventura, Crime",6.16
+"Biografia, Drama, Mistério",6.66
+"Crime, Comédia, Romance",6.16
+"Ação, Animação, Comédia",6.02
+"Terror, Sci-Fi, Esporte",5.06
+"Fantasia, Ação, Aventura",5.74
+"Aventura, Familia, Ação",5.74
+"Ação, Animação",6.01
+"Aventura, Drama, Esporte",5.92
+"Comédia, Animação",6.32
+"Ação, Fantasia, Mistério",5.95
+"Sci-Fi, Ação, Comédia",5.46
+"Ação, Crime, Esporte",5.59
+"Animação, Drama, Romance",6.56
+"Drama, Familia, Musical",6.75
+"Terror, Thriller, Musical",6.13
+"Documentário, Crime",6.65
+"Biografia, Terror, Mistério",6.10
+"Familia, Animação, Aventura",6.13
+"Curta, Sci-Fi",5.62
+"Terror, Drama, Romance",6.04
+"Aventura, Familia, Comédia",5.94
+"Fantasia, Aventura, Romance",6.05
+"Terror, Comédia, Sci-Fi",5.33
+"Sci-Fi, Terror, Thriller",5.24
+"Ação, Comédia, História",5.98
+"Drama, Familia, Comédia",6.25
+"Fantasia, Drama, Mistério",6.38
+"Ação, Terror, Animação",5.69
+"Animação, Romance, Sci-Fi",5.95
+"Ação, Familia",5.70
+"Biografia, Comédia, Thriller",6.22
+"Familia, Drama, Musicalal",6.37
+"Drama, Terror, Western",5.99
+"Curta, Drama, Thriller",6.28
+"Ação, Fantasia, História",5.96
+"Documentário, História, Esporte",6.31
+"Familia, Comédia, Ação",5.82
+"Romance, Ação, Drama",6.17
+"Animação, Ação, Comédia",6.02
+"Documentário, Biografia, Comédia",6.70
+"Documentário, Aventura, Esporte",6.09
+"Animação, Mistério, Thriller",6.26
+"Ação, Fantasia, Romance",5.93
+"Documentário, Drama, Esporte",6.40
+"Documentário, Biografia, Mistério",6.82
+"Ação, Thriller, Comédia",5.75
+"Animação, Comédia, Sci-Fi",5.84
+"Biografia, Comédia, Romance",6.41
+"Comédia, Ação, Familia",5.82
+"Drama, Fantasia, Western",6.30
+"Crime, Comédia, Fantasia",6.05
+"Animação, Ação, Mistério",6.14
+"Animação, Fantasia, Sci-Fi",5.83
+"Animação, Drama, Familia",6.43
+"Ação, Thriller, Sci-Fi",5.37
+"Animação, Sci-Fi, Curta",5.94
+"Ação, Thriller, Western",5.80
+"Aventura, Biografia",6.32
+"Familia, Fantasia, Thriller",5.92
+"Drama, Familia, Thriller",6.16
+"Ação, Romance, Drama",6.17
+"Documentário, Romance, Guerra",6.72
+"Musicalal, Romance, Thriller",6.18
+"Mistério, Drama, Romance",6.50
+"Terror, Mistério, Drama",6.06
+"Familia, Drama, Fantasia",6.23
+"Ação, Sci-Fi, Comédia",5.46
+"Ação, Fantasia, Thriller",5.74
+"Comédia, Drama, Talk-Show",
+"Aventura, Sci-Fi, Western",5.63
+"Ação, Curta, Sci-Fi",5.55
+"Ação, Sci-Fi, Animação",5.64
+"Aventura, Fantasia, Drama",6.17
+"Romance, Fantasia",6.18
+"Comédia, Fantasia, Esporte",5.77
+"Ação, Crime, Comédia",5.85
+"Familia, Comédia, Aventura",5.94
+"Musicalal, Romance, Ação",6.06
+"Ação, Sci-Fi, Guerra",5.63
+"Comédia, Familia, Musical",6.53
+"Aventura, Documentário, Curta",6.45
+"Fantasia, Mistério, Romance",6.26
+"Aventura, Sci-Fi, Familia",5.56
+"Thriller, Ação",5.60
+"Terror, Thriller, Western",5.67
+"Drama, Fantasia, Thriller",6.17
+"Drama, Romance, Mistério",6.50
+"Ação, Western, Comédia",5.89
+"Familia, Fantasia, Romance",6.11
+"Aventura, Animação, Fantasia",6.13
+"Documentário, Comédia, Crime",6.45
+"Thriller, Comédia",5.91
+"Musicalal, Romance, Fantasia",6.25
+"Adult, Curta",
+"Musicalal, Familia, Comédia",6.14
+"Documentário, Aventura, News",
+"Crime, Curta, Comédia",6.16
+"Documentário, Adult, Biografia",
+"Curta, História",6.40
+"Aventura, Drama, Musicalal",6.31
+"Comédia, Curta, Fantasia",6.13
+"Terror, Thriller, Drama",5.85
+"Terror, Thriller, Sci-Fi",5.24
+"Animação, Ação",6.01
+"Animação, História",6.53
+"Animação, Sci-Fi, Thriller",5.76
+"Animação, Comédia, Western",6.28
+"Comédia, Drama, Crime",6.29
+"Drama, Fantasia, Esporte",5.99
+"Crime, Terror, Romance",5.83
+"Ação, História",5.94
+"Comédia, Documentário, Familia",6.42
+"Crime, Romance, Thriller",6.07
+"Aventura, Crime, Musicalal",6.10
+"Animação, Terror, Mistério",6.02
+"Drama, Thriller, Comédia",6.18
+"Fantasia, Western",6.10
+"Animação, Ação, Musical",6.52
+"Mistério, Fantasia, Romance",6.26
+"Terror, Musical, Sci-Fi",5.83
+"Musicalal, Documentário",6.81
+"Musicalal, Animação, Crime",6.36
+"Curta, Mistério",6.38
+"Animação, Comédia, Mistério",6.35
+"Aventura, Ação, Sci-Fi",5.37
+"Fantasia, Familia",5.99
+"Comédia, Thriller, Ação",5.75
+"Sci-Fi, Crime, Thriller",5.59
+"Drama, Musical, Crime",6.79
+"Thriller, Ação, Crime",5.76
+"Comédia, Ação, Sci-Fi",5.46
+"Ação, Mistério, Sci-Fi",5.58
+"Animação, Curta, Sci-Fi",5.94
+"Romance, Comédia, Musicalal",6.27
+"Fantasia, Ação, Comédia",5.83
+"Ação, Comédia, Animação",6.02
+"Crime, Mistério, Comédia",6.18
+"Drama, Crime, Ação",6.08
+"Terror, Thriller, Fantasia",5.61
+"Sci-Fi, Curta, Animação",5.94
+"Aventura, Romance, Fantasia",6.05
+"Comédia, Thriller, Terror",5.62
+"Fantasia, Drama, Curta",6.36
+"Comédia, Thriller, Romance",6.06
+"Documentário, Adult",
+"Animação, Curta, Documentário",6.72
+"Animação, Familia, Western",6.26
+"Aventura, Sci-Fi, Fantasia",5.56
+"Documentário, Fantasia, Musical",6.92
+"Musicalal, Curta",6.37
+"Familia, Mistério, Thriller",6.06
+"Curta, Comédia, Animação",6.33
+"Curta, Comédia, Sci-Fi",5.76
+"Documentário, Musical, Drama",7.16
+"Animação, Ação, Familia",6.00
+"Romance, Musicalal, Ação",6.06
+"Comédia, Curta, Romance",6.25
+"Comédia, Documentário, Drama",6.66
+"Curta, Comédia, História",6.28
+"Musicalal, Drama, Romance",6.49
+"Mistério, Fantasia, Terror",5.82
+"Aventura, Curta, Comédia",6.06
+"Drama, Thriller, Musicalal",6.30
+"Musicalal, Drama, Familia",6.37
+"Curta, Animação, Musicalal",6.45
+"Thriller, Terror, Crime",5.64
+"Biografia, Comédia, Crime",6.32
+"Drama, Comédia, Musical",6.77
+"Mistério, Sci-Fi, Crime",5.79
+"Drama, Curta, Fantasia",6.36
+"Familia, Mistério",6.19
+"Animação, Sci-Fi, Ação",5.64
+"Drama, Musical, Comédia",6.77
+"Adult, Terror",
+"Comédia, Curta, Drama",6.37
+"Curta, Animação, Drama",6.55
+"Biografia, Terror, Thriller",5.89
+"Curta, Ação, Comédia",5.94
+"Curta, Esporte",5.80
+"Documentário, Curta, Ação",6.33
+"Curta, Familia, Fantasia",6.11
+"Musicalal, Comédia, Sci-Fi",5.78
+"Drama, Crime, Guerra",6.46
+"Familia, Fantasia, Drama",6.23
+"Documentário, Aventura, Biografia",6.62
+"Familia, Musicalal, Drama",6.37
+"Comédia, Guerra, Ação",6.02
+"Aventura, Thriller, Drama",6.10
+"Terror, Crime, Curta",5.83
+"Drama, Comédia, Sci-Fi",5.89
+"Thriller, Drama, Ação",5.98
+"Comédia, Musicalal, Aventura",6.08
+"Familia, Comédia, Romance",6.13
+"Terror, Romance, Drama",6.04
+"Drama, Comédia, Fantasia",6.26
+"Sci-Fi, Aventura, Ação",5.37
+"Aventura, Animação, Drama",6.37
+"Familia, Drama, Romance",6.35
+"Familia, Romance",6.17
+"Comédia, Curta, Sci-Fi",5.76
+"Aventura, Ação, Fantasia",5.74
+"Animação, Ação, Terror",5.69
+"Documentário, Curta, Drama",6.76
+"Documentário, Familia, Musical",6.92
+"Sci-Fi, Drama, Thriller",5.80
+"Comédia, Fantasia, Familia",6.01
+"Comédia, Musical, Drama",6.77
+"Biografia, Familia, Drama",6.51
+"Sci-Fi, Thriller, Terror",5.24
+"Drama, Romance, Familia",6.35
+"Ação, Curta",5.89
+"Aventura, Ação, Comédia",5.76
+"Thriller, Drama, Mistério",6.30
+"Curta, Familia",6.16
+"Mistério, Romance, Sci-Fi",5.88
+"Ação, Curta, Mistério",6.06
+"Ação, Curta, Comédia",5.94
+"Animação, Documentário",6.91
+"Animação, Terror, Curta",6.00
+"Comédia, Fantasia, Curta",6.13
+"Drama, Sci-Fi, Crime",5.90
+"Aventura, Familia, Mistério",6.06
+"Crime, Ação",5.76
+"Ação, Romance, Comédia",5.94
+"Documentário, Drama, Fantasia",6.65
+"Documentário, Ação, Biografia",6.49
+"Documentário, Mistério",6.81
+"Drama, Ação, Thriller",5.98
+"Animação, Curta, Adult",
+"Curta, Animação, Ação",6.12
+"Documentário, Mistério, Drama",6.78
+"Romance, Crime, Thriller",6.07
+"Fantasia, Terror, Musicalal",5.82
+"Drama, Guerra, Comédia",6.45
+"Comédia, Romance, Ação",5.94
+"Ação, Crime, Musical",6.35
+"Ação, Thriller, Mistério",5.87
+"Aventura, Thriller, Familia",5.85
+"Comédia, Romance, Musical",6.65
+"Ação, Musicalal, Romance",6.06
+"Musical, Comédia, Drama",6.77
+"Ação, Curta, Aventura",5.86
+"Drama, Terror, Aventura",5.86
+"Ação, Musicalal, Drama",6.18
+"Romance, Western, Drama",6.42
+"Terror, Aventura",5.42
+"Ação, Animação, Sci-Fi",5.64
+"Ação, Fantasia, Animação",6.01
+"Ação, Fantasia, Drama",6.05
+"Thriller, Crime, Romance",6.07
+"Documentário, Crime, História",6.59
+"Familia, Musical, Romance",6.63
+"Musical, Sci-Fi",6.22
+"Animação, Terror, Sci-Fi",5.51
+"Drama, Fantasia, Animação",6.44
+"Ação, Sci-Fi, Curta",5.55
+"Drama, Documentário, Musical",7.16
+"Drama, Sci-Fi, Curta",5.99
+"Documentário, Familia, Fantasia",6.40
+"Documentário, Comédia, Terror",6.10
+"Terror, Musical, Thriller",6.13
+"Documentário, Drama, Familia",6.64
+"Guerra, Ação, Aventura",5.94
+"Crime, Sci-Fi, Thriller",5.59
+"Documentário, Aventura, Drama",6.58
+"Documentário, Ação, Aventura",6.15
+"Animação, Aventura",6.20
+"Drama, Esporte, Guerra",6.18
+"Documentário, Drama, Sci-Fi",6.28
+"Comédia, Crime, Esporte",5.79
+"Fantasia, Mistério, Ação",5.95
+"Sci-Fi, Ação, Animação",5.64
+"Terror, Fantasia, Thriller",5.61
+"Musicalal, Ação, Crime",5.97
+"Comédia, Fantasia, Thriller",5.94
+"Romance, Sci-Fi, Thriller",5.68
+"Sci-Fi, Drama, Fantasia",5.87
+"Animação, Comédia, Ação",6.02
+"Drama, Terror, Musicalal",6.06
+"Western, Aventura, Drama",6.24
+"Musical, Documentário",7.38
+"Curta, Fantasia, Mistério",6.25
+"Thriller, Aventura, Mistério",6.00
+"Ação, Fantasia, Guerra",6.00
+"Drama, Esporte, Thriller",5.92
+"Aventura, Animação, Comédia",6.15
+"Musicalal, Mistério, Drama",6.51
+"Terror, Sci-Fi, Comédia",5.33
+"Animação, Drama, Terror",6.12
+"Animação, Biografia, Comédia",6.49
+"Animação, Aventura, Mistério",6.27
+"Musicalal, Ação, Drama",6.18
+"Curta, Comédia, Musicalal",6.27
+"Comédia, Animação, Curta",6.33
+"Musicalal, Comédia, Aventura",6.08
+"Drama, Familia, Curta",6.35
+"Curta, Terror, Thriller",5.72
+"Fantasia, Guerra, Terror",5.88
+"Fantasia, Mistério, Thriller",6.06
+"Drama, Comédia, Ação",6.07
+"Animação, Aventura, Drama, Fantasia, História",6.32
+"Drama, Terror, Comédia",5.94
+"Drama, Musical, Sci-Fi",6.39
+"Documentário, Fantasia",6.61
+"Documentário, Comédia, Guerra",6.62
+"Biografia, Esporte",6.04
+"Documentário, Ação, Drama",6.46
+"Curta, Drama, Musical",6.87
+"Documentário, Ação, Comédia",6.23
+"Curta, Crime, Terror",5.83
+"Curta, Aventura",6.07
+"Terror, Thriller, Guerra",5.80
+"Aventura, Fantasia, Thriller",5.86
+"Documentário, Curta, Comédia",6.54
+"Ação, Familia, Esporte",5.55
+"Ação, Aventura, Comédia, Fantasia, Sci-Fi, Thriller",5.66
+"Documentário, História, Mistério",6.70
+"Animação, Mistério, Sci-Fi",5.97
+"Documentário, Crime, Guerra",6.63
+"Documentário, Comédia, História",6.58
+"Documentário, Crime, Thriller",6.36
+"Ação, Fantasia, Western",5.87
+"Documentário, Musical, Guerra",7.12
+"Documentário, Familia, Mistério",6.54
+"Familia, Esporte",5.62
+"Ação, Terror, Western",5.55
+"Crime, Fantasia, Thriller",5.96
+"Terror, Musicalal, Sci-Fi",5.45
+"Animação, Mistério",6.50
+"Documentário, Romance",6.79
+"Animação, Crime, Mistério",6.36
+"Fantasia, Mistério",6.21
+"Animação, Drama, Mistério",6.58
+"Curta, Ação, Drama",6.16
+"Animação, Curta, Thriller",6.24
+"Ação, Familia, Fantasia",5.80
+"Animação, Biografia",6.72
+"Documentário, Musical, Musicalal",7.06
+"Comédia, Terror, Esporte",5.45
+"Documentário, Familia, História",6.55
+"Curta, Aventura, Musical",6.57
+"Aventura, Esporte",5.53
+"Animação, Ação, Thriller",5.93
+"Documentário, Crime, Drama",6.67
+"Curta, Terror, Romance",5.92
+"Documentário, Musical, Mistério",7.06
+"Documentário, Biografia, Familia",6.68
+"Ação, Mistério, Sci-Fi, Thriller",5.63
+"Documentário, Animação, Biografia",6.88
+"Documentário, Crime, Familia",6.43
+"Animação, Musical, Romance",6.83
+"Animação, Terror",5.82
+"Documentário, Crime, Terror",6.12
+"Curta, Ação, Sci-Fi",5.55
+"Documentário, História, News",
+"Documentário, História, Romance",6.68
+"Documentário, Thriller",6.50
+"Curta, Musicalal",6.37
+"Animação, Fantasia, Mistério",6.34
+"Documentário, Biografia, Fantasia",6.69
+"Curta, Romance, Sci-Fi",5.86
+"Documentário, Drama, News",
+"Documentário, Curta, Familia",6.51
+"Documentário, Aventura, História",6.49
+"Documentário, Animação, News",
+"Mistério, Thriller, Western",6.13
+"Documentário, Drama, Romance",6.77
+"Documentário, Aventura, Western",6.40
+"Curta, Aventura, Comédia",6.06
+"Documentário, News",
+"Curta, Terror, Sci-Fi",5.43
+"Fantasia, Mistério, Sci-Fi",5.77
+"Comédia, Mistério, Sci-Fi",5.78
+"Animação, Familia, Sci-Fi",5.82
+"Animação, Drama, História",6.59
+"Animação, Curta, Biografia",6.59
+"Documentário, Reality-TV",
+"Animação, Curta, Crime",6.34
+"Animação, Familia, Mistério",6.33
+"Animação, Curta, Western",6.38
+"Curta, Drama, Mistério",6.49
+"Fantasia, Romance, Sci-Fi",5.75
+"Animação, Crime, Familia",6.22
+"Documentário, Curta, Aventura",6.45
+"Animação, Aventura, Terror",5.81
+"Documentário, Animação",6.91
+"Adult, Fantasia",
+"Documentário, Musical, Romance",7.04
+"Documentário, Ação, História",6.37
+"Musical, Musicalal",6.98
+"Documentário, Drama, Musicalal",6.78
+"Documentário, Familia, Esporte",6.15
+"Comédia, Thriller, Western",6.01
+"Crime, História, Thriller",6.11
+"Documentário, Comédia, News",
+"Documentário, Aventura, Comédia",6.36
+"Crime, News, Thriller",
+"Comédia, Talk-Show",
+"História, Thriller, Guerra",6.27
+"Documentário, Biografia, News",
+"Documentário, Biografia, Thriller",6.61
+"Documentário, Aventura, Crime",6.37
+"Terror, Musical, Mistério",6.33
+"Romance, Esporte",5.80
+"Biografia, Crime, História",6.46
+"Documentário, Ação, Crime",6.24
+"Musical, Mistério, Thriller",6.58
+"Documentário, Curta, News",
+"Documentário, Fantasia, História",6.56
+"Crime, Fantasia, Mistério",6.17
+"Ação, História, Thriller",5.89
+"Documentário, Comédia, Romance",6.54
+"Animação, Drama, Thriller",6.37
+"Documentário, Western",6.70
+"Crime, Drama, Familia",6.26
+"Aventura, Fantasia, Musicalal",6.07
+"Biografia, Terror, Sci-Fi",5.59
+"Comédia, Musical, Sci-Fi",6.16
+"Documentário, Musical, News",
+"Documentário, Aventura, Familia",6.33
+"Curta, Ação, Crime",5.95
+"Documentário, Animação, Curta, Terror",6.30
+"Animação, História, Terror",6.03
+"Drama, Familia, Sci-Fi",5.86
+"Curta, Ação, Terror",5.61
+"Curta, Drama, Sci-Fi",5.99
+"Documentário, Crime, News",
+"Drama, Familia, Terror",5.92
+"Documentário, História, Thriller",6.49
+"Drama, Musicalal, Sci-Fi",6.00
+"Drama, Musical, Esporte",6.51
+"Documentário, Biografia, Sci-Fi",6.31
+"Biografia, Familia, Esporte",6.02
+"Familia, História, Guerra",6.34
+"Curta, Ação, Fantasia",5.93
+"Documentário, Biografia, Terror",6.37
+"Animação, Ação, Comédia, Fantasia, Romance",6.09
+"Documentário, Musical, Esporte",6.67
+"Animação, Curta, Mistério",6.45
+"Crime, Drama, News",
+"Documentário, Comédia, Familia",6.42
+"Aventura, Biografia, Guerra",6.41
+"Biografia, Crime, Thriller",6.23
+"Aventura, Musicalal, Mistério",6.20
+"Documentário, Familia, Guerra",6.59
+"Curta, Drama, Western",6.42
+"Documentário, História, Sci-Fi",6.19
+"Documentário, Animação, Drama",6.85
+"Animação, Curta, Romance",6.43
+"Musicalal, Thriller",6.09
+"Drama, Mistério, News",
+"Documentário, Familia, Romance",6.52
+"Curta, História, Mistério",6.41
+"News, Sci-Fi, Thriller",
+"Documentário, Comédia, Musicalal",6.56
+"Aventura, Musical, Mistério",6.59
+"Curta, Biografia, Comédia",6.41
