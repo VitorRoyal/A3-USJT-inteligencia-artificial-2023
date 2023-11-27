@@ -36,13 +36,13 @@ y_pred = modelo.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
 print(f'MSE: {mse}')
 
-def prever_nota(released, genre, director)
+def prever_nota(released, genre, director):
 
     # Convertendo o ano para string
     released = str(released)
 
     # Primeiro, vamos transformar as entradas em uma lista de dicionários
-    dados_previsao = [{'released' released, 'genre' ', '.join(sorted(set(genre))), 'director' ', '.join(sorted(set(director)))}]
+    dados_previsao = [{'released': released, 'genre': ', '.join(sorted(set(genre))), 'director': ', '.join(sorted(set(director)))}]
 
     # Agora, vamos transformar essa lista em um DataFrame
     df = pd.DataFrame(dados_previsao)
@@ -56,19 +56,19 @@ def prever_nota(released, genre, director)
     X = df[['peso_diretor', 'peso_gênero', 'peso_ano']]  # Certificando-se de que as colunas estão corretamente nomeadas
 
     # Finalmente, vamos fazer a previsão
-    if not df.empty
+    if not df.empty:
         y_pred = modelo.predict(X)
 
         # Vamos retornar a média das previsões, já que temos várias previsões (uma para cada combinação de gênero e diretor)
         return y_pred.mean()
-    else
-        print(Não foi possível fazer uma previsão devido à falta de dados correspondentes.)
+    else:
+        print("Não foi possível fazer uma previsão devido à falta de dados correspondentes.")
         return None
 
-def obter_entradas_usuario()
-    released = int(input(Informe o ano de lançamento do filme ))
-    genre = input(Informe o(s) gênero(s) do filme separado(s) por vírgula ).split(', ')
-    director = input(Informe o(s) diretor(es) do filme separado(s) por vírgula ).split(', ')
+def obter_entradas_usuario():
+    released = int(input("Informe o ano de lançamento do filme: "))
+    genre = input("Informe o(s) gênero(s) do filme separado(s) por vírgula: ").split(', ')
+    director = input("Informe o(s) diretor(es) do filme separado(s) por vírgula: ").split(', ')
 
     return released, genre, director
 
@@ -76,4 +76,4 @@ def obter_entradas_usuario()
 released, genre, director = obter_entradas_usuario()
 
 # Fazendo a previsão com base nas informações do usuário
-print(A provável nota desse filme é , prever_nota(released, genre, director))
+print("A provável nota desse filme é:" , prever_nota(released, genre, director))
