@@ -1,0 +1,97 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+import numpy as np
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn import metrics
+from sklearn.model_selection import train_test_split
+
+# Carregando os dados]
+filmes = pd.read_csv('filmes.csv')
+pesos_diretores = pd.read_csv('pesos_diretores.csv')
+pesos_generos = pd.read_csv('pesos_generos.csv')
+pesos_anos = pd.read_csv('pesos_anos.csv')
+
+# Convertendo a coluna 'ano' para o tipo de dados correto
+filmes['released'] = filmes['released'].astype(str)
+
+# Unindo as planilhas
+dados = pd.merge(filmes, pesos_diretores, on='director', how='left')
+dados = pd.merge(dados, pesos_generos, on='genre', how='left')
+dados = pd.merge(dados, pesos_anos, on='released', how='left')
+
+# Removendo linhas com valores NaN
+dados.dropna(inplace=True)
+
+# Dividindo os dados
+X = dados[['peso_diretor', 'peso_gênero', 'peso_ano']]
+y = dados['nota_imdb']
+
+X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.2, random_state=42)
+
+# Modelo que representa o método KNN de Regressão, utilizando k = 3
+model = KNeighborsRegressor(n_neighbors=3)
+
+# Aplicamos os dados de treinamento ao modelo
+model.fit(X_train,y_train)
+
+# Aplicação do KNN Regressão ao grupo de teste e cálculo da precisão
+precisao = model.score(X_test,y_test)
+print(precisao)
+
+# Cálculo da precisão com formatação 99% ao invés de 0.99
+precisao = str(round(model.score(X_test,y_test) * 100, 2))+"%"
+print(precisao)
+
+# Utilizamos o método predict para retornar as previsões do nosso modelo
+y_pred = model.predict(X_test)
+
+# Utilizamos nossas previsões e os valores reais da variável target
+# para calcular as métricas MAE e RMSE.
+print('MAE:', metrics.mean_absolute_error(y_test, y_pred))
+print('RMSE:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+
+def prever_nota(released, genre, director):
+
+  # Convertendo o ano para string
+  released = str(released)
+
+  # Primeiro, vamos transformar as entradas em uma lista de dicionários
+  dados_previsao = [{'released': released, 'genre': ','.join(sorted(set(genre))), 'director': ','.join(sorted(set(director)))}]
+
+  # Agora, vamos transformar essa lista em um DataFrame
+  df = pd.DataFrame(dados_previsao)
+
+  # Unindo as planilhas corretas
+  df = pd.merge(df, pesos_diretores, on='director', how='left')
+  df = pd.merge(df, pesos_generos, on='genre', how='left')
+  df = pd.merge(df, pesos_anos, on='released', how='left')
+
+  # Preenchendo valores ausentes com 0
+  df.fillna(0, inplace=True)
+
+  # Agora, vamos preparar os dados para a previsão
+  X = df[['peso_diretor', 'peso_gênero', 'peso_ano']]
+                   
+  # Finalmente, vamos fazer a previsão
+  if not df.empty:
+    y_pred = model.predict(X)
+
+  # Vamos retornar a média das previsões, já que temos várias previsões (uma para cada combinação de gênero e diretor)
+    return y_pred.mean()
+  else:
+    print("Não foi possível fazer uma previsão devido à falta de dados correspondentes.")
+    return None
+
+def obter_entradas_usuario():
+  released = int(input("Informe o ano de lançamento do filme: "))
+  genre = input("Informe o(s) gênero(s) do filme separado(s) por vírgula: ").split(', ')
+  director = input("Informe o(s) diretor(es) do filme separado(s) por vírgula: ").split(', ')
+  return released, genre, director
+                 
+# Obtendo as informações do usuário
+released, genre, director = obter_entradas_usuario()
+
+# Fazendo a previsão com base nas informações do usuário
+print("A provável nota desse filme é:", prever_nota(released, genre,director))
